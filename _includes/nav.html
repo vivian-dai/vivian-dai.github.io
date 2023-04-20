@@ -1,0 +1,5 @@
+<div class="navbar">
+    {% for link in site.data.nav.nav %}
+        <a href="{{link.link}}">{{link.name}}</a>
+    {% endfor %}
+</div>
