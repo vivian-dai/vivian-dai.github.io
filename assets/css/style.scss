@@ -137,3 +137,18 @@ p {
 .project:hover {
     text-shadow: 10px 5px 10px #9af;
 }
+
+.contacts-wrapper {
+    text-align: center;
+    list-style: none;
+    font-size: 1.5em;
+}
+
+.contacts-wrapper li a {
+    text-decoration: none;
+    color: var(--primary);
+}
+
+.contacts-wrapper li a:hover {
+    color: var(--link);
+}

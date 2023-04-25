@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<h1>Contact</h1>
+<hr>
+<p>Here's a few places you can check out more of my stuff, you can email me if you'd like a copy of my resume or something similar:</p><br>
+<div class="contacts-wrapper">
+    {% for contact in site.data.contact %}
+        <li>
+            <a href="{{ contact.link }}" target="_blank">{{ contact.name }}</a>
+        </li>
+    {% endfor %}
+</div>
