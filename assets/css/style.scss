@@ -25,6 +25,12 @@ body {
 h1 {
     font-size: 3em;
 }
+h2 {
+    font-size: 2.5em;
+}
+h3 {
+    font-size: 2em;
+}
 p {
     font-size: 1.5em;
 }
@@ -51,7 +57,7 @@ p {
 
 .content {
     padding: 5% 5%;
-    height: 100vh;
+    min-height: 100vh;
     background: linear-gradient(var(--background), var(--background-secondary));
 }
 
@@ -105,4 +111,29 @@ p {
     100% {
         text-shadow: 10px 5px 10px #9af;
     }
+}
+
+.project-wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.project {
+    display: inline-block;
+    text-decoration: none;
+    color: var(--primary);
+    border: var(--primary) 1px solid;
+    padding: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    border-radius: 5%;
+    transition: text-shadow 0.5s ease-in-out;
+}
+
+.project img {
+    max-width: 30%;
+}
+
+.project:hover {
+    text-shadow: 10px 5px 10px #9af;
 }

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<h1>Projects</h1>
+<hr>
+<p>Here's a list of projects I've done sorted by categories:</p><br>
+{% for category in site.data.projects %}
+    <h2>{{ category[0] }}</h2><br>
+    <div class="project-wrapper">
+    {% for project in category[1] %}
+        <a href="{{ project.link }}" class="project">
+            <img src="{{ project.image }}">
+            <h3>{{ project.name }}</h3>
+            <p>{{ project.description }}</p>
+        </a>
+    {% endfor %}
+    </div>
+    <br>
+{% endfor %}

@@ -1,0 +1,68 @@
+Android Apps:
+- name: SuperiorTimeSystem
+  link: https://github.com/vivian-dai/SuperiorTimeSystem
+  description: >-
+    I was introduced to decimal time and thought it was a much more intuitive time system to use. I also stumbled upon Internation Fixed Calendar and thought it was 
+    pretty neat. Now whenever people see the widgets on my phone, they can ask me why it's 7.68 or why the date doesn't look right.
+  image: https://raw.githubusercontent.com/vivian-dai/SuperiorTimeSystem/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+
+Python:
+- name: Duber Paint
+  link: https://github.com/Damon-D-Ma/DuberPaint
+  description: >-
+    This was made during COVID when we were realizing it's a lot easier to discuss ideas when we had a whiteboard and could all just draw on it. To get around 
+    the lack of being able to draw on whiteboards together during COVID, we created a paint app where you could join rooms and draw with your friends.
+  image: https://raw.githubusercontent.com/Damon-D-Ma/DuberPaint/main/assets/duberpaint.png
+- name: dubeTube
+  link: https://devpost.com/software/dubetube
+  description: >-
+    Hackathon project. Video streaming service for environmentally friendly subjects. Neat features include comments, being able to share via QR code, using an AI API to
+    categorize videos, and spam detection.
+  image: https://raw.githubusercontent.com/andrewchu16/dubeTube/main/static/assets/logo.png
+
+Websites:
+- name: TASL
+  link: https://devpost.com/software/tasl-teaching-american-sign-language
+  description: >-
+    Hackathon project for teaching American sign language. Debugging this made me fluent in the ASL alphabet for about 3 days.
+  image: https://raw.githubusercontent.com/KathleenX7/ULHacks2021-TASL/main/Images/Logo/Mascot.png
+- name: Primes as a Service
+  link: https://github.com/vivian-dai/Primes-as-a-Service
+  description: >-
+    A totally not scam service that emails you a prime number that you purchase (and yes I'm aware 32 and 27 are not prime numbers). 
+  image: https://raw.githubusercontent.com/vivian-dai/Primes-as-a-Service/main/frontend/public/logo.png
+
+CTF Writeups:
+- name: PicoCTF 2021
+  link: https://vivian-dai.github.io/PicoCTF2021-Writeup/
+  description: >-
+    My team's writeup for PicoCTF 2021. This was the first writeup I've ever written. The aim was to write a beginner friendly writeup.
+  image: https://repository-images.githubusercontent.com/345861943/67e18980-9174-11eb-9e1d-4d10fb2c69ed
+- name: angstromCTF 2021
+  link: https://github.com/AppliedCyberCTF/angstromCTF-2021
+  description: >-
+    Applied Cyber Security's writeups for angstromCTF 2021. The writeup template I created for angstromCTF 2021 ended up being the writeup 
+    template ACS used for several other writeups.
+  image: https://repository-images.githubusercontent.com/354380892/5128db80-97e1-11eb-9d38-c5b42e43a577
+- name: PicoMini 2022
+  link: https://rhhscs.github.io/PicoMini-2022/
+  description: >-
+    Writeups that were intended for teaching high schoolers basic CTF concepts
+  image: https://repository-images.githubusercontent.com/345861943/67e18980-9174-11eb-9e1d-4d10fb2c69ed
+
+jokes:
+- name: MangoTango
+  link: https://marketplace.visualstudio.com/items?itemName=VivianDai.mangotango
+  description: >-
+    A CS course I was taking had "which of the following is not a VSCode extension" as a multiple choice question. Obviously that was too good of an 
+    opportunity to pass up so here we are with a VSCode extension with the name of the previously right answer (the question had to be changed to 
+    "which of these VSCode extensions has the least downloads")
+  image: https://viviandai.gallerycdn.vsassets.io/extensions/viviandai/mangotango/0.0.5/1675973170464/Microsoft.VisualStudio.Services.Icons.Default
+- name: Natural
+  link: https://devpost.com/software/natural
+  description: >-
+    We tried to make a Discord bot that plays music and it ended up being able to do everything except for playing music (can pull data for YouTube, etc.) 
+    so instead of scrapping it, we decided to submit it as a joke. People like it. We also realized later it was missing intents after Discord API updates
+    but at that point, it's too funny to bother fixing.
+  image: https://media.discordapp.net/attachments/886371534728470538/888790592895717466/35311593-3edd9102-00f2-11e8-98fb-38be1d0e650f.png
+
