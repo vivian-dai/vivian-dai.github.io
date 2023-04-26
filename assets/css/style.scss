@@ -14,6 +14,20 @@
     box-sizing: border-box;
 }
 
+@media screen and (max-width: 1020px) {
+    .project-wrapper {
+        display: grid;
+        grid-template-columns: 1;
+    }
+}
+
+@media screen and (min-width: 1020px) {
+    .project-wrapper {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }    
+}
+
 body {
     background-color: var(--background);
     font-family: monospace;
@@ -111,11 +125,6 @@ p {
     100% {
         text-shadow: 10px 5px 10px #9af;
     }
-}
-
-.project-wrapper {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
 }
 
 .project {
