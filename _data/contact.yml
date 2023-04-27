@@ -1,10 +1,15 @@
 - name: Github
   link: https://github.com/vivian-dai/
+  reason: code dumo
 - name: Devpost
   link: https://devpost.com/viviandai
+  reason: hackathon projects
 - name: Dev.to
   link: https://dev.to/viviandai
+  reason: blog
 - name: Hashnode
   link: https://viviandai.hashnode.dev/
+  reason: blog 2.0
 - name: Email
   link: "mailto:vsqdai@uwaterloo.ca"
+  reason: actual contact

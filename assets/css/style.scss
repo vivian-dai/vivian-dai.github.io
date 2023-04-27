@@ -39,14 +39,30 @@ body {
 h1 {
     font-size: 3em;
 }
+
 h2 {
     font-size: 2.5em;
 }
+
 h3 {
     font-size: 2em;
 }
+
 p {
     font-size: 1.5em;
+}
+
+img {
+    max-width: 20%;
+}
+
+p:nth-child(even) img {
+    float: left;
+    margin-right: 1rem;
+}
+p:nth-child(odd) img {
+    float: right;
+    margin-left: 1rem;
 }
 
 .navbar {
