@@ -3,7 +3,8 @@ Android Apps:
   link: https://github.com/vivian-dai/SuperiorTimeSystem
   description: >-
     I was introduced to decimal time and thought it was a much more intuitive time system to use. I also stumbled upon Internation Fixed Calendar and thought it was 
-    pretty neat. Now whenever people see the widgets on my phone, they can ask me why it's 7.68 or why the date doesn't look right.
+    pretty neat. Now whenever people see the widgets on my phone, they can ask me why it's 7.68 or why the date doesn't look right. This was built using Kotlin and 
+    Android Studio.
   image: https://raw.githubusercontent.com/vivian-dai/SuperiorTimeSystem/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
 
 Python:
@@ -65,4 +66,9 @@ jokes:
     so instead of scrapping it, we decided to submit it as a joke. People like it. We also realized later it was missing intents after Discord API updates
     but at that point, it's too funny to bother fixing.
   image: https://media.discordapp.net/attachments/886371534728470538/888790592895717466/35311593-3edd9102-00f2-11e8-98fb-38be1d0e650f.png
-
+- name: Tuesday
+  link: https://devpost.com/software/tuesday
+  description: >-
+    Our calendar Chrome extension built for your weird friend that can't focus on things that aren't spinning and RGB or are permanently upside down. 
+    Helps you see the world in various different angles and colours!
+  image: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/001/919/923/datas/medium.png
