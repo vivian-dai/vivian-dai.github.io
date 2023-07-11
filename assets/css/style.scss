@@ -34,6 +34,7 @@ body {
     color: var(--primary);
     width: 100%;
     height: 100%;
+    cursor: url(/assets/cursor/cursor.png), auto;
 }
 
 h1 {
@@ -54,6 +55,11 @@ p {
 
 img {
     max-width: 20%;
+}
+
+a {
+    color: var(--link);
+    cursor: url(/assets/cursor/clicked.png), auto;
 }
 
 p:nth-child(even) img {
