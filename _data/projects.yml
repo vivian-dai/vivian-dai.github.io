@@ -1,11 +1,11 @@
 Android Apps:
-- name: SuperiorTimeSystem
+- name: Superior Time System
   link: https://github.com/vivian-dai/SuperiorTimeSystem
   description: >-
     I was introduced to decimal time and thought it was a much more intuitive time system to use. I also stumbled upon Internation Fixed Calendar and thought it was 
     pretty neat. Now whenever people see the widgets on my phone, they can ask me why it's 7.68 or why the date doesn't look right. This was built using Kotlin and 
     Android Studio.
-  image: https://raw.githubusercontent.com/vivian-dai/SuperiorTimeSystem/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+  image: https://raw.githubusercontent.com/vivian-dai/SuperiorTimeSystem/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
 
 Python:
 - name: Duber Paint

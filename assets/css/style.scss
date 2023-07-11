@@ -154,7 +154,7 @@ p:nth-child(odd) img {
     text-decoration: none;
     color: var(--primary);
     border: var(--primary) 1px solid;
-    padding: 2%;
+    padding: 7%;
     margin-right: 2%;
     margin-bottom: 2%;
     border-radius: 5%;
@@ -163,6 +163,17 @@ p:nth-child(odd) img {
 
 .project img {
     max-width: 30%;
+    display: inline-block;
+}
+
+.project h3 {
+    width: 60%;
+    display: inline-block;
+    margin-left: 5%;
+}
+
+.project p {
+    margin-top: 5%;
 }
 
 .project:hover {
