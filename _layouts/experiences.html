@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<h1>Experiences</h1>
+<hr><br>
+{% for experience in site.data.experiences %}
+<div class="experience-block">
+    <div class="experience-block-left">
+        <img src="{{ experience.image }}" width="100%">
+    </div>
+    <div class="experience-block-right">
+        <h2>{{ experience.position }}</h2>
+        <h3>{{ experience.company }}</h3>
+        <h4>{{ experience.date }}</h4>
+        <p>{{ experience.skills }}</p>
+        <p>{{ experience.description }}</p>
+    </div>
+</div>
+{% endfor %}

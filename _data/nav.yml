@@ -3,6 +3,8 @@ nav:
     link: /
   - name: About
     link: /about
+  - name: Experiences
+    link: /experiences
   - name: Projects
     link: /projects
   - name: Contact

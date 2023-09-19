@@ -49,6 +49,10 @@ h3 {
     font-size: 2em;
 }
 
+h4 {
+    font-size: 1.7em;
+}
+
 p {
     font-size: 1.5em;
 }
@@ -193,4 +197,25 @@ p:nth-child(odd) img {
 
 .contacts-wrapper li a:hover {
     color: var(--link);
+}
+
+.experience-block {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 2%;
+}
+
+.experience-block-left {
+    display: inline-block;
+    width: 20%;
+}
+
+.experience-block-left img {
+    max-width: 90%;
+    border-radius: 10%;
+}
+
+.experience-block-right {
+    display: inline-block;
 }
