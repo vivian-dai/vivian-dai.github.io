@@ -1,7 +1,9 @@
 - position: Junior Technical Analyst
   company: Ministry of Transportation
   skills: Java, Spring Boot, Microsoft Azure, Git
-  description: Helped develop a REST API using Java Spring Boot
+  description: >-
+    Helped develop a REST API using Java Spring Boot by writing transactions, <br>
+    unit and integration tests, and code features.
   date: September 2023 - Present
   image: https://www.ontario.ca/themes/ontario_2021/assets/apple-touch-icon.png
 - position: Lead Web Developer

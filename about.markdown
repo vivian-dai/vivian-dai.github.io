@@ -13,4 +13,4 @@ Computer science aside, I'm interested in music, photography (enjoy these random
 
 In my free time, you might find me going on spontaneous bike rides or walks, not sleeping because of a hackathon, CTF, or because I got carried away doing some personal project, or thinking about ideas and concepts that I've come across (sci fi is a good inspiration). <br><br>
 
-I'm currently looking for a fall 2023 co-op so if you find me interesting, don't hesitate to [shoot me an email](mailto:vsqdai@uwaterloo.ca) to request my resume. <br><br>
+I'm currently looking for a summer 2023 co-op so if you find me interesting, don't hesitate to [shoot me an email](mailto:vsqdai@uwaterloo.ca) to request my resume. <br><br>

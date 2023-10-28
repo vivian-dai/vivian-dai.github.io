@@ -6,6 +6,12 @@ Android Apps:
     pretty neat. Now whenever people see the widgets on my phone, they can ask me why it's 7.68 or why the date doesn't look right. This was built using Kotlin and 
     Android Studio.
   image: https://raw.githubusercontent.com/vivian-dai/SuperiorTimeSystem/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+- name: Cup of Ice
+  link: https://github.com/vivian-dai/CupOfIce
+  description: >-
+    There's a friend I see about twice a year. Each time I see her we get bubble tea which contains ice. Shaking the cup of ice at her is an inside joke.
+    This app was made to simulate that experience since I can't shake a cup of ice at her when I don't have a cup of ice. This was built using Kotlin and Android Studio.
+  image: https://github.com/vivian-dai/CupOfIce/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png?raw=true
 
 Python:
 - name: Duber Paint
@@ -32,6 +38,20 @@ Websites:
   description: >-
     A totally not scam service that emails you a prime number that you purchase (and yes I'm aware 32 and 27 are not prime numbers). 
   image: https://raw.githubusercontent.com/vivian-dai/Primes-as-a-Service/main/frontend/public/logo.png
+
+Games:
+- name: Rhino's Quest
+  link: https://devpost.com/software/elap
+  description: >-
+    Hackathon project my friends and I made with three years worth of lore. It was nice to finally implement it.
+    We built it with Godot 4.0 and GDScript. I got to play with fun concepts like non linear acceleration in game gravity.
+  image: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/620/440/datas/medium.png
+- name: A Cheesy Tail
+  link: https://vivian-dai.github.io/a-cheesy-tail/
+  description: >-
+    A text based choose your own adventure game my friend and I made because I wanted to play with 
+    Inkle. Contains about two years worth of lore.
+  image: https://raw.githubusercontent.com/vivian-dai/a-cheesy-tail/main/cheeseTail.svg
 
 CTF Writeups:
 - name: PicoCTF 2021
