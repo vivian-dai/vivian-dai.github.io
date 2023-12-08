@@ -3,7 +3,9 @@
   skills: Java, Spring Boot, Microsoft Azure, Git
   description: >-
     Helped develop a REST API using Java Spring Boot by writing transactions, <br>
-    unit and integration tests, and code features.
+    unit and integration tests, and code features. Wrote a batch script to <br>
+    automate the process of testing the API. Created a Maven project to retreive <br>
+    data from a MySQL database to verify test results. <br>
   date: September 2023 - Present
   image: https://www.ontario.ca/themes/ontario_2021/assets/apple-touch-icon.png
 - position: Lead Web Developer
@@ -11,6 +13,6 @@
   skills: Gulp.js, SCSS, Tailwind, Next.js
   description: >-
     Led a team of five to develop a website for a desgin team <br>
-    Set up emails for the team and domain name for the website
+    Set up emails for the team and domain name for the website.
   date: December 2022 - July 2023
   image: https://media.licdn.com/dms/image/C560BAQFNmDlQjPa6TQ/company-logo_200_200/0/1676324670947?e=1703116800&v=beta&t=mXeRSr4_mzjURdhh8scqXf_Kwmijh3_cCKt4Pne6dIY
