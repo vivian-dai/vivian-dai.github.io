@@ -7,7 +7,7 @@
     automate the process of testing the API. Created a Maven project to retreive <br>
     data from a MySQL database to verify test results. <br>
   date: September 2023 - December 2023
-  image: /assets/images/experiences_electrium_web_lead.png
+  image: /assets/images/experiences_mto.png
 - position: Lead Web Developer
   company: Electrium Mobility
   skills: Gulp.js, SCSS, Tailwind, Next.js
@@ -15,4 +15,4 @@
     Led a team of five to develop a website for a desgin team <br>
     Set up emails for the team and domain name for the website.
   date: December 2022 - July 2023
-  image: /assets/images/experiences_mto.png
+  image: /assets/images/experiences_electrium_web_lead.png
