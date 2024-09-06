@@ -85,7 +85,7 @@ jokes:
     We tried to make a Discord bot that plays music and it ended up being able to do everything except for playing music (can pull data for YouTube, etc.) 
     so instead of scrapping it, we decided to submit it as a joke. People like it. We also realized later it was missing intents after Discord API updates
     but at that point, it's too funny to bother fixing.
-  image: https://media.discordapp.net/attachments/886371534728470538/888790592895717466/35311593-3edd9102-00f2-11e8-98fb-38be1d0e650f.png
+  image: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/001/657/282/datas/medium.png
 - name: Tuesday
   link: https://devpost.com/software/tuesday
   description: >-

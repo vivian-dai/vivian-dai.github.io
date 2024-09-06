@@ -1,3 +1,11 @@
+- position: Software Design Engineering Co-op
+  company: MARTINREA International Inc
+  skills: Python, Arduino, Computer Vision, OpenCV, DepthAI
+  description: >-
+    Created custom firmware for in-house hardware as well as a Python library <br>
+    for controlling the hardware.
+  date: May 2024 - August 2024
+  image: /assets/images/experiences_martinrea.png
 - position: Junior Technical Analyst Co-op
   company: Ministry of Transportation
   skills: Java, Spring Boot, Maven, Git, SQL
