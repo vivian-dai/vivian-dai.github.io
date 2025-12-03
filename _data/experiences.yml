@@ -1,3 +1,13 @@
+- position: Vulnerability Research Internat
+  company: Trend Micro
+  date: September 2025 - December 2025
+  skills: VMware, stunnel, mitmproxy, Wireshark
+  image: /assets/images/experiences_trend.png
+- position: Cloud Software Developer
+  company: Ford
+  date: January 2025 - April 2025
+  skills: Java, Elasticsearch, Ubuntu, Gradle
+  image: /assets/images/experiences_ford.png
 - position: Software Design Engineering Co-op
   company: MARTINREA International Inc
   skills: Python, Arduino, Computer Vision, OpenCV, DepthAI
